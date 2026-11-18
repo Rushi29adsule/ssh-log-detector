@@ -1,0 +1,116 @@
+
+===== SSH LOG DETECTOR v3.0 =====
+
+===== SECURITY EVENT REPORT =====
+
+Timestamp: 2026-11-13T16:42:44+05:30
+Username: wronguser
+Source IP: 192.168.59.128
+Total IP Attempts: 13
+Severity: HIGH
+----------------------------
+
+Timestamp: 2026-11-13T16:42:54+05:30
+Username: wronguser
+Source IP: 192.168.59.128
+Total IP Attempts: 13
+Severity: HIGH
+----------------------------
+
+Timestamp: 2026-11-13T16:42:59+05:30
+Username: wronguser
+Source IP: 192.168.59.128
+Total IP Attempts: 13
+Severity: HIGH
+----------------------------
+
+Timestamp: 2026-11-14T17:21:25+05:30
+Username: wronguser
+Source IP: 192.168.59.129
+Total IP Attempts: 3
+Severity: MEDIUM
+----------------------------
+
+Timestamp: 2026-11-14T17:21:31+05:30
+Username: wronguser
+Source IP: 192.168.59.129
+Total IP Attempts: 3
+Severity: MEDIUM
+----------------------------
+
+Timestamp: 2026-11-14T17:21:38+05:30
+Username: wronguser
+Source IP: 192.168.59.129
+Total IP Attempts: 3
+Severity: MEDIUM
+----------------------------
+
+Timestamp: 2026-11-14T20:31:31+05:30
+Username: rushikesh
+Source IP: 192.168.59.128
+Total IP Attempts: 13
+Severity: HIGH
+----------------------------
+
+Timestamp: 2026-11-15T17:50:45+05:30
+Username: wronguser
+Source IP: 192.168.59.128
+Total IP Attempts: 13
+Severity: HIGH
+----------------------------
+
+Timestamp: 2026-11-15T17:50:53+05:30
+Username: wronguser
+Source IP: 192.168.59.128
+Total IP Attempts: 13
+Severity: HIGH
+----------------------------
+
+Timestamp: 2026-11-15T17:51:02+05:30
+Username: wronguser
+Source IP: 192.168.59.128
+Total IP Attempts: 13
+Severity: HIGH
+----------------------------
+
+Timestamp: 2026-11-15T17:52:02+05:30
+Username: wronguser
+Source IP: 192.168.59.128
+Total IP Attempts: 13
+Severity: HIGH
+----------------------------
+
+Timestamp: 2026-11-15T17:52:11+05:30
+Username: wronguser
+Source IP: 192.168.59.128
+Total IP Attempts: 13
+Severity: HIGH
+----------------------------
+
+Timestamp: 2026-11-15T17:52:15+05:30
+Username: wronguser
+Source IP: 192.168.59.128
+Total IP Attempts: 13
+Severity: HIGH
+----------------------------
+
+Timestamp: 2026-11-15T17:52:39+05:30
+Username: rushi
+Source IP: 192.168.59.128
+Total IP Attempts: 13
+Severity: HIGH
+----------------------------
+
+Timestamp: 2026-11-15T17:52:44+05:30
+Username: rushi
+Source IP: 192.168.59.128
+Total IP Attempts: 13
+Severity: HIGH
+----------------------------
+
+Timestamp: 2026-11-15T17:52:51+05:30
+Username: rushi
+Source IP: 192.168.59.128
+Total IP Attempts: 13
+Severity: HIGH
+----------------------------
